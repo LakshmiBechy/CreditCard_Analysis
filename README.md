@@ -9,3 +9,4 @@ Microsoft Power BI for robust data processing and visualization.
 #### Analysis Focus:
 Examined customer demographics, income utilization, spending behavior, and credit card spending patterns.
 
+## Challenge Link: https://codebasics.io/challenge/codebasics-resume-project-challenge
